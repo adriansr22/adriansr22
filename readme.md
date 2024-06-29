@@ -50,6 +50,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/adriansr22/adriansr22/output/snake.svg" alt="Snake animation" />
 
 ###

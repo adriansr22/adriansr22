@@ -1,4 +1,4 @@
-<h1 align="left">Hola soy Adrián y que se yo, no tengo más imaginación jeje</h1>
+<h1 align="left">Hi, My name is Adrián and i love coding and learning new things!</h1>
 
 ###
 
